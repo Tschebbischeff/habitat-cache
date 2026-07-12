@@ -18,20 +18,20 @@ You can check out all officially available modules [here](https://github.com/Tsc
 
 ## Module Features
 
-[![Redis](https://img.shields.io/badge/Redis-_?style=flat&logo=tailscale&logoColor=242424&logoSize=auto&color=gray&labelColor=gray)](https://tailscale.com/)
+[![Redis](https://img.shields.io/badge/Redis-_?style=flat&logo=redis&logoColor=FF4438&logoSize=auto&color=gray&labelColor=gray)](https://redis.io/)
 
  - **In-Memory Database** \
  Redis provides an in-memory database for caching and other uses of a key-value store.
 
 ### Planned
 
-![No Changes Planned](https://img.shields.io/badge/None-No_Changes_Planned-green?style=flat)
+![No Features Planned](https://img.shields.io/badge/_-No_Planned_Features-green?style=flat)
 
 ## Getting Started
 
 ### Requirements
 
- - [![Habitat-Module: Path](https://img.shields.io/badge/Habitat--Module-Path-_?style=flat&color=gray&labelColor=gray)](https://github.com/Tschebbischeff/habitat-path)
+*This module has no requirements.*
 
 ### Configuration
 
