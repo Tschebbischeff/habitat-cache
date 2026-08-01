@@ -18,7 +18,7 @@ You can check out all officially available modules [here](https://github.com/Tsc
 
 ## Module Features
 
-[![Redis](https://img.shields.io/badge/Redis-_?style=flat&logo=redis&logoColor=FF4438&logoSize=auto&color=gray&labelColor=gray)](https://redis.io/)
+[![Redis](https://img.shields.io/badge/Redis-_?style=flat&logo=redis&logoColor=FF4438&color=gray&labelColor=gray)](https://redis.io/)
 
  - **In-Memory Database** \
  Redis provides an in-memory database for caching and other uses of a key-value store.
