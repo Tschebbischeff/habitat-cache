@@ -42,6 +42,8 @@ services:
   redis:
     build:
       context: ./redis
+      args:
+        REDIS_VERSION: "${REDIS_VERSION:?}"
     container_name: ${APP_NAME_HOST}_redis
     restart: unless-stopped
     expose:
